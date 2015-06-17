@@ -1,5 +1,5 @@
 ## function makeCacheMatrix creates a list of functions 
-## to be used by function cacheSolve 
+## to be used by the function cacheSolve 
 
 ## function makeCacheMatrix to create a list of functions
 
